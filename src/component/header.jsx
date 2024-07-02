@@ -8,8 +8,8 @@ const Header = () => {
             <header id="header">
                 <div className="d-flex flex-column">
                 <div className="profile">
-                    <img src="public\oya_pp2.jpg" alt className="img-fluid rounded-circle" />
-                    <h1 className="text-light"><a href="index.html">Fabiola Pangaila</a></h1>
+                    <img src="public\bri.jpg" alt className="img-fluid rounded-circle" />
+                    <h1 className="text-light"><a href="index.html">Briana Tessalonika Najoan</a></h1>
                     <div className="social-links mt-3 text-center">
                     <a href="https://www.instagram.com/btnajoan_/" className="instagram"><i className="bi bi-instagram" /></a>
                     <a href="https://github.com/brianatessalonikanajoan" className="github"><i className="bi bi-github" /></a>

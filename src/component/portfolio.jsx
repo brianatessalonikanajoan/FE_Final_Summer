@@ -7,7 +7,7 @@ const Portfolio = () => {
     <div className="section-title">
       <h2>Portfolio</h2>
       <p>
-      Halo, Fabiola Pangaila, seorang Analis Sistem (System Analyst) yang memiliki tujuan utama meningkatkan efisiensi dan efektivitas sistem informasi melalui analisis dan desain sistem yang inovatif. Dengan antusiasme, kreativitas, dan semangat untuk belajar yang tinggi, saya memiliki pengalaman dalam menganalisis kebutuhan bisnis dan merancang solusi sistem yang optimal.
+      Halo, Briana Tessalonika Najoan, seorang Analis Sistem (System Analyst) yang memiliki tujuan utama meningkatkan efisiensi dan efektivitas sistem informasi melalui analisis dan desain sistem yang inovatif. Dengan antusiasme, kreativitas, dan semangat untuk belajar yang tinggi, saya memiliki pengalaman dalam menganalisis kebutuhan bisnis dan merancang solusi sistem yang optimal.
       <br/>
       Saya percaya bahwa analisis yang mendalam dan desain yang solid adalah kunci untuk menciptakan sistem informasi yang unggul. Meskipun saat ini saya belum memiliki pengalaman kerja terkait, saya siap berkontribusi pada proyek-proyek yang menantang dan membangun portofolio yang menonjol Keinginan saya untuk terus
       <br/>

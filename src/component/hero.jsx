@@ -25,7 +25,7 @@ const Hero = () => {
       {/* ======= Hero Section ======= */}
       <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
         <div className="hero-container" data-aos="fade-in">
-          <h1>Fabiola Pangaila</h1>
+          <h1>Briana Tessalonika Najoan</h1>
           <p>
             I'M <span className="typed" style={{ color: "White", textDecoration: "none" }} data-typed-items="Machine Learning Engineer" />
           </p>
