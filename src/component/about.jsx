@@ -17,7 +17,7 @@ const About = () => {
           <div className="row">
             <div className="col-lg-4" data-aos="fade-right">
               <img
-                src="public\bri.jpg"
+                src="/bri.jpg"
                 className="img-fluid"
                 alt
               />
