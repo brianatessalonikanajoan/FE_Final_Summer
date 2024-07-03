@@ -43,7 +43,7 @@ const Resume = () =>{
         </div>
         <h3 className="resume-title">Proyek Pribadi:</h3>
         <div className="resume-item">
-        <h4>PEMBUATAN website untu cafetaria kampus Berupa Website (2023):</h4>
+        <h4>PEMBUATAN website untuk cafetaria kampus Berupa Website (2023):</h4>
         <ul>
             <li>Membuat situs web pembuatan </li>
             <li>Mengoptimalkan fungsi dan kinerja website.</li>
